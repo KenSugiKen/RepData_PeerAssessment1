@@ -67,6 +67,9 @@ ggplot(steps_per_day, aes(x = date
 ```
 
 
+![](https://github.com/alambike123/RepData_PeerAssessment1/blob/master/01.png)<!-- -->
+
+
 
 **2 . Calculate and report the mean and median total number of steps taken per day**
 
